@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "802429472648",
+    "project_id": "discovery-26d4e",
+    "storage_bucket": "discovery-26d4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802429472648:android:dfdc03c7ae20abe948b43d",
+        "android_client_info": {
+          "package_name": "com.Discovery.MET.discovery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802429472648-j6en2bu6vr62u0o6eacuf0c99hprb7gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfpBPeG1A-ofQlEKA27LxzSfITBRRE0bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802429472648-j6en2bu6vr62u0o6eacuf0c99hprb7gp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802429472648-i6e8167golcpa55mu81cqt5ltmsh7l1e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Discovery.MET.discovery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
