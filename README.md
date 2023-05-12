@@ -11,7 +11,8 @@ Discovery is a fully functional travel social app to promote tourism and discove
 
 
                   
-## Prepare and present     
+## Prepare and present
+# Team:
 * Ahmed Elgebaly      [[Facebook Profile]](https://facebook.com/Ahaelgebaly/)
 * Ahmed Ashraf        [[Facebook Profile]](https://facebook.com/ahmd.ahraf30)
 * Khaled Ali          [[Facebook Profile]](https://facebook.com/khaledaboetman)
