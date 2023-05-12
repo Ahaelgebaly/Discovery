@@ -5,13 +5,11 @@ Discovery is a fully functional travel social app to promote tourism and discove
 * Misr Higher Institute For Commerce & Computer - Computer Science 
 * MET 
 
+
+# Prepare and present
 ##  Under The Supervision Of : 
 * Dr.Mohamed kazim Khalil                            
 * Eng.Omnia AbdElmouti
-
-
-                  
-## Prepare and present
 ### Our Team :
 * Ahmed Elgebaly      [[Facebook Profile]](https://facebook.com/Ahaelgebaly/)
 * Ahmed Ashraf        [[Facebook Profile]](https://facebook.com/ahmd.ahraf30)
